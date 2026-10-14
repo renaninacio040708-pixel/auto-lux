@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://auto-lux.vercel.app/sitemap.xml
